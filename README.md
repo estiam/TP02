@@ -17,7 +17,7 @@ Git par la pratique
 * Faites une révision :
 
         git checkout -b votrecompte1
-        git add README.md
+        git add README.md	
         git commit
 
 * Publiez-la dans votre espace public:
@@ -49,7 +49,7 @@ Git par la pratique
 
 * Une fois que le conflit est réglé par une révision, publiez l'ensemble des révisions dans votre espace public :
 
-        git push origin votrecompte1-votrecompte2
+         git push origin votrecompte1-votrecompte2
 
 * Dans GitHub faites une demande d'intégration (*pull request*).
 
@@ -62,3 +62,5 @@ Git par la pratique
         git pull https://github.com/nomducollegue/TP02.git nomdesabranche
 
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
+
+*Aaron
