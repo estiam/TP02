@@ -61,4 +61,7 @@ Git par la pratique
 
         git pull https://github.com/nomducollegue/TP02.git nomdesabranche
 
+Khouloud Jabloun
+Quentin Delaunay
+Denisiyan Poopalasingam
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
