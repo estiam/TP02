@@ -1,10 +1,10 @@
 Git par la pratique
 ===================
 
-* Mettez vous deux par deux.
-* Créez vous chacun un compte sur GitHub.
-* Dupliquez à l'aide de *fork* le projet TP02 dans votre espace public.
-* Récupérez sur votre disque dur les sources du projet.
+* Mettez vous deux par deux,
+* Créez vous chacun un compte sur GitHub,
+* Dupliquez à l'aide de *fork* le projet TP02 dans votre espace public,
+* Récupérez sur votre disque dur les sources du projet,
 
         git clone https://github.com/votrecompte/TP02.git
 
@@ -24,7 +24,7 @@ Git par la pratique
 
         git push origin votrecompte1
 
-* Ajoutez le prénom et le nom de l'autre membre du binôme selon les mêmes règles que tout à l'heure.
+* Ajoutez le prénom et le nom de l'autre membre du binôme selon les mêmes règles que tout à l'heure,
 * Faites une révision :
 
         git checkout master
@@ -51,7 +51,7 @@ Git par la pratique
 
         git push origin votrecompte1-votrecompte2
 
-* Dans GitHub faites une demande d'intégration (*pull request*).
+* Dans GitHub faites une demande d'intégration (*pull request*),
 
 * Supposons maitenant que la branche officielle soit en déshérence et que vous décidiez de prendre la relève. Récupérez la dernière version officielle :
  
@@ -61,4 +61,7 @@ Git par la pratique
 
         git pull https://github.com/nomducollegue/TP02.git nomdesabranche
 
-* Réglez le conflit. Mettez à jour votre branche maître. Publiez.
+* Réglez le conflit. Mettez à jour votre branche maître. Publiez,
+
+* ADAMA BG,
+* DJOKO BG.
