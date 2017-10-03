@@ -63,4 +63,5 @@ Git par la pratique
 
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
 
-*Berger-Fischer Quentin.
+*Berger-Fischer Quentin,
+*DEMRI Sabrina.
