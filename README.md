@@ -62,6 +62,6 @@
         git pull https://github.com/nomducollegue/TP02.git nomdesabranche
 
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
+
 *Berger-Fischer Quentin,
 *DEMRI Sabrina.
-
