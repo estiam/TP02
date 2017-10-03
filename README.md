@@ -1,4 +1,4 @@
-Git par la pratique
+﻿Git par la pratique
 ===================
 
 * Mettez vous deux par deux.
@@ -62,3 +62,12 @@ Git par la pratique
         git pull https://github.com/nomducollegue/TP02.git nomdesabranche
 
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
+<<<<<<< HEAD
+
+*Berger-Fischer Quentin,
+*DEMRI Sabrina.
+=======
+*Berger-Fischer Quentin,
+*DEMRI Sabrina.
+
+>>>>>>> f3658d725ca057125c252e3bb6386776e650998e
