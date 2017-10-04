@@ -60,5 +60,5 @@ Git par la pratique
 * Récupérez la demande d'intégration d'un de vos collègues :
 
         git pull https://github.com/nomducollegue/TP02.git nomdesabranche
-
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
+Gabriel lacroix
