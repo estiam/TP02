@@ -64,5 +64,3 @@ Git par la pratique
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
 
 * Renaud Racinet.
-
-* Youssef Sabr
