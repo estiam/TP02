@@ -65,3 +65,8 @@ Git par la pratique
 
 * Aminata Tope
 * Altamore Quentin
+* Chakib BOUABD,
+* Yaaqoub SEMLALI
+* Chakib
+* baptiste chene
+* Aghiles TIGHRINE
