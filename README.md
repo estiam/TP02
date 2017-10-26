@@ -64,4 +64,8 @@ Git par la pratique
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
 
 
-* Chakib BOUABD
+* Chakib BOUABD,
+* Yaaqoub SEMLALI
+* Chakib
+* baptiste chene
+* Aghiles TIGHRINE
