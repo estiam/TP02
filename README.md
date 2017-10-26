@@ -63,6 +63,7 @@ Git par la pratique
 
 * Réglez le conflit. Mettez à jour votre branche maître. Publiez.
 
+
 * Chakib BOUABD,
 * Yaaqoub SEMLALI
 * Chakib
